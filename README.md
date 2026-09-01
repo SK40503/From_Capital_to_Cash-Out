@@ -71,7 +71,7 @@ python3 00_build_all_figures.py
 
 ## What is deliberately not here
 
-Preqin and LSEG (Refinitiv) data are licensed commercial products, so this repository excludes the raw deal-level exports and every derived file that carries company names or identifiers (including the ID-bearing variant of the estimation sample that Figures 1 and 2 are drawn from; their plotted values are in `figures/` instead). The anonymised sample and the aggregated model outputs are the author's own analytical results and contain no vendor records.
+Preqin and LSEG (Refinitiv) data are licensed commercial products, so this repository excludes the raw deal-level exports and every derived file that carries company names or identifiers (including the ID-bearing variant of the estimation sample that Figures 1 and 2 are drawn from; their plotted values are in `figures/` instead). The anonymised sample and the aggregated model outputs are the my own analytical results and contain no vendor records.
 
 ## Provenance
 
