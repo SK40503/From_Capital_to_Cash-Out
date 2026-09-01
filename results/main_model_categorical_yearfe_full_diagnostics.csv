@@ -1,0 +1,17 @@
+metric,value
+N,2430.0
+events,227.0
+n_parameters,31.0
+events_per_parameter,7.32
+log_likelihood,-685.3153152573732
+AIC,1432.6306305147464
+BIC,1612.2956731411189
+pseudo_R2_McFadden,0.09133349489022691
+in_sample_AUC,0.720274315560879
+cv_pooled_AUC,0.6704113933542766
+cv_fold_AUC_mean,0.6742083236456639
+cv_fold_AUC_sd,0.03750842910748275
+oof_brier,0.08237647084061372
+null_model_brier,0.08468915646327627
+calibration_intercept,-1.0393722476025051
+calibration_slope,0.5052437350636484

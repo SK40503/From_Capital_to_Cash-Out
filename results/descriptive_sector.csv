@@ -1,0 +1,50 @@
+sector,exits,n,exit_rate
+Software,35,516,0.06782945736434108
+Financial Services,19,306,0.06209150326797386
+Internet,23,223,0.1031390134529148
+Consumer Products,18,164,0.10975609756097561
+Education/Training,16,121,0.1322314049586777
+Food,12,114,0.10526315789473684
+Healthcare,11,78,0.14102564102564102
+Retail,8,65,0.12307692307692308
+Pharmaceuticals,8,58,0.13793103448275862
+"Automobiles, Other Vehicles & Parts",8,58,0.13793103448275862
+Healthcare IT,3,54,0.05555555555555555
+Medical Devices & Equipment,3,49,0.061224489795918366
+Agribusiness,4,46,0.08695652173913043
+Logistics & Distribution,8,46,0.17391304347826086
+Business Support Services,5,43,0.11627906976744186
+Travel & Leisure,6,40,0.15
+Biotechnology,1,38,0.02631578947368421
+Renewable Energy,4,35,0.11428571428571428
+Media,3,34,0.08823529411764706
+Aerospace,0,30,0.0
+Insurance,3,30,0.1
+Industrial Machinery,1,30,0.03333333333333333
+Consumer Services,3,29,0.10344827586206896
+Environmental Services,0,24,0.0
+Materials,3,23,0.13043478260869565
+Real Estate Development & Operating Companies,5,22,0.22727272727272727
+Transportation Services,0,21,0.0
+Healthcare Specialists,3,20,0.15
+Marketing/Advertising,2,20,0.1
+Electronics,4,17,0.23529411764705882
+Energy Storage & Batteries,0,16,0.0
+Chemicals,4,16,0.25
+Power & Utilities,5,14,0.35714285714285715
+Outsourcing,2,14,0.14285714285714285
+Telecoms,2,13,0.15384615384615385
+Semiconductors,2,13,0.15384615384615385
+Packaging,1,11,0.09090909090909091
+IT Security/Cybersecurity,2,10,0.2
+Hardware,0,8,0.0
+Commercial Property,1,7,0.14285714285714285
+IT Infrastructure,0,7,0.0
+Construction,0,6,0.0
+Information Services,0,6,0.0
+Defence,0,4,0.0
+"Heating, Cooling & Ventilation Equipment and Services",1,3,0.3333333333333333
+Ship Building & Repair,0,1,0.0
+Oil & Gas,1,1,1.0
+Mining,0,1,0.0
+Unknown,0,1,0.0

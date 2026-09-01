@@ -1,0 +1,6 @@
+metric,value
+N,2430.0
+events,227.0
+pseudo_R2_McFadden,0.0869
+AUC,0.7141243118614784
+LLR_pvalue,1.6033187430115898e-17

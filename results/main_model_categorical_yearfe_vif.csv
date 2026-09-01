@@ -1,0 +1,32 @@
+variable,VIF
+Intercept,16.772652531575
+"C(syndicate_cat, Treatment(reference='1'))[T.2]",1.5930259471455612
+"C(syndicate_cat, Treatment(reference='1'))[T.3]",1.426126357781533
+"C(syndicate_cat, Treatment(reference='1'))[T.4+]",1.428529100965028
+"C(sector_grp, Treatment(reference='Software'))[T.Agribusiness]",1.0762271444184603
+"C(sector_grp, Treatment(reference='Software'))[T.Automobiles, Other Vehicles & Parts]",1.1030915864648747
+"C(sector_grp, Treatment(reference='Software'))[T.Business Support Services]",1.077474265417152
+"C(sector_grp, Treatment(reference='Software'))[T.Consumer Products]",1.2564435100064297
+"C(sector_grp, Treatment(reference='Software'))[T.Education/Training]",1.1880735189182448
+"C(sector_grp, Treatment(reference='Software'))[T.Financial Services]",1.4494781845819518
+"C(sector_grp, Treatment(reference='Software'))[T.Food]",1.182072905078521
+"C(sector_grp, Treatment(reference='Software'))[T.Healthcare]",1.1478975725407183
+"C(sector_grp, Treatment(reference='Software'))[T.Healthcare IT]",1.0874530112708236
+"C(sector_grp, Treatment(reference='Software'))[T.Internet]",1.3398485484512042
+"C(sector_grp, Treatment(reference='Software'))[T.Logistics & Distribution]",1.0780363731651357
+"C(sector_grp, Treatment(reference='Software'))[T.Medical Devices & Equipment]",1.0854932192014795
+"C(sector_grp, Treatment(reference='Software'))[T.Other]",1.6778030349391448
+"C(sector_grp, Treatment(reference='Software'))[T.Pharmaceuticals]",1.1543080918872295
+"C(sector_grp, Treatment(reference='Software'))[T.Retail]",1.1077338926076579
+"C(first_investment_year, Treatment(reference=2015))[T.2016]",1.4644217216805269
+"C(first_investment_year, Treatment(reference=2015))[T.2017]",1.3679812021984499
+"C(first_investment_year, Treatment(reference=2015))[T.2018]",1.4042015465381446
+"C(first_investment_year, Treatment(reference=2015))[T.2019]",1.4237355172691728
+"C(first_investment_year, Treatment(reference=2015))[T.2020]",1.512384860454111
+"C(first_investment_year, Treatment(reference=2015))[T.2021]",1.647712692280265
+"C(first_investment_year, Treatment(reference=2015))[T.2022]",1.4987251990464676
+"C(first_investment_year, Treatment(reference=2015))[T.2023]",1.393511703959164
+"C(first_investment_year, Treatment(reference=2015))[T.2024]",1.335608594233027
+flag_founding_pre2000,1.1916619767296504
+first_round_foreign_investor_share,1.1150701472091131
+log_investor_experience_mean,1.5849615695008132

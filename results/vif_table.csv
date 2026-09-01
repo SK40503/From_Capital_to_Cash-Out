@@ -1,0 +1,9 @@
+variable,VIF
+const,12.062049067034842
+years_since_first_investment,1.047240688977096
+flag_founding_pre2000,1.1833608454847344
+first_round_syndicate_size,1.2771213618605728
+first_round_foreign_investor_share,1.0591475033199917
+first_round_corporate_vc_flag,1.0159244951463455
+first_round_late_stage_pe_flag,1.1129027600891355
+log_investor_experience_mean,1.3273478572625388
