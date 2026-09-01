@@ -1,6 +1,6 @@
 # From Capital to Cash-Out: data and code
 
-Companion repository for the MSc dissertation **"From Capital to Cash-Out: Determinants of Venture and Private-Equity Exit Incidence in India, with a Descriptive Comparison of Pakistan and Bangladesh"** (University College London, 2026).
+Companion repository for the MSc dissertation **"From Capital to Cash-Out: Determinants of Venture and Private-Equity Exit Incidence in India, with a Descriptive Comparison of Pakistan and Bangladesh"** .
 
 The study asks which first-round deal and investor characteristics are associated with a realised exit among 2,430 Indian venture- and private-equity-backed firms observed over 2014 to 2024, using binary logistic regression on Preqin and LSEG (Refinitiv) data. This repository holds everything a reader needs to check the numbers in the dissertation: the anonymised estimation sample, every model output the text cites, the four figures with the exact values plotted in each, and the full analysis pipeline.
 
